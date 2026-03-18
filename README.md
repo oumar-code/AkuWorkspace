@@ -37,3 +37,5 @@ See `.github/workflows/ci.yml` for CI/CD pipeline.
 
 ## License
 MIT
+# AkuWorkspace
+## Features - REST API for workspace management - Scalable Node.js backend
