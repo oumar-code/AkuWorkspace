@@ -4,6 +4,8 @@
 
 ---
 
+![CI](https://github.com/oumar-code/AkuWorkspace/actions/workflows/ci.yml/badge.svg)
+
 ## Overview
 
 AkuWorkspace is the orchestration hub of the Akulearn platform. It exposes a clean FastAPI surface that lets clients define and execute *workflows* — ordered sequences of calls to downstream micro-services — without knowing the topology of the backend.
