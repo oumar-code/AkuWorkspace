@@ -11,9 +11,9 @@ build/
 
 # Environment
 .env
+<<<<<<< Updated upstream
 
 # Testing
-.pytest_cache/
 .coverage
 coverage.xml
 htmlcov/
@@ -25,3 +25,6 @@ htmlcov/
 
 # Docker
 *.log
+=======
+coverage/
+

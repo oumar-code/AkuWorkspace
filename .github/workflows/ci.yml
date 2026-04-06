@@ -1,6 +1,6 @@
-name: CI
+# Automation Progress Tracker
 
-on:
+This markdown file will record the step-by-step progress of implementing automation (CI/CD, testing, linting, deployment, documentation builds) across all repositories in the stack.
   push:
     branches: [main]
   pull_request:
